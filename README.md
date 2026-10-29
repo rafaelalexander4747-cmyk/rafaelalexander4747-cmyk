@@ -1,4 +1,4 @@
-### ¡Hola! Soy Rafael Alexander  👋
+### ¡Hola! Soy Rafael Alexander   👋
 
 Estudiante de *Ingeniería en Ciencia de Datos* en Cibertec . Apasionado por encontrar historias ocultas en los datos, construir modelos predictivos y transformar información en decisiones estratégicas. 
 
